@@ -1,0 +1,16 @@
+{
+  "applicationData": [
+    {
+      "id": 1,
+      "name": "Ashwin",
+      "status": "pending",
+      "orgName": "Infosys"
+    },
+    {
+      "id": 2,
+      "name": "Kowsalya",
+      "status": "completed",
+      "orgName": "Verizon"
+    }
+  ]
+}
